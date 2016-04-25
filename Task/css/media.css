@@ -1,0 +1,555 @@
+@media only screen and (min-width:1700px) and (max-width:1920px){
+     #banner .intro-text {
+        position: relative;
+        bottom: 60px;
+    }
+     .navbar-nav > li {
+          float: left;
+          padding-left: 60px;
+          padding-right: 60px;
+    }
+}
+@media only screen and (min-width:1400px) and (max-width:1700px){
+     #banner .intro-text {
+        position: relative;
+        bottom: 60px;
+    }
+      .navbar-nav > li {
+          float: left;
+          padding-left: 48px;
+          padding-right: 48px;
+    }
+}
+@media only screen and (min-width:1200px) and (max-width:1400px){
+    #banner .intro-text {
+        position: relative;
+        bottom: 60px;
+    }
+    .intro-title {
+        font-size: 4vw;
+    }
+    .intro-text h2 {
+        font-size: 3vw;
+    }
+    .navbar-nav > li {
+      float: left;
+      padding-left: 32px;
+      padding-right: 32px;
+    }
+    .navbar-nav > li > a {
+      padding: 20px 0 20px 7px;
+    }
+    .navbar-default .navbar-nav>.active>a{
+      background-color: #FFF;
+    }
+    .thumbnail img {
+      width: 100%;
+    }
+    .form-group {
+        margin-left: 35px;
+    }
+    .formrow,.btnrow{
+        margin-right: 0;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1200px){
+    #banner .intro-text {
+        position: relative;
+        bottom: 60px;
+    }
+    .intro-title {
+        font-size: 4vw;
+    }
+    .intro-text h2 {
+        font-size: 3.5vw;
+    }
+    .navbar-nav > li > a {
+      padding: 20px 0 20px 8px;
+    }
+    .navbar-nav > li {
+      float: left;
+      padding-left: 28px;
+      padding-right: 28px;
+    }
+    .navbar-default .navbar-nav>.active>a{
+      background-color: #FFF;
+    }
+    .caption p{
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .thumbnail img {
+      width: 100%;
+    }
+    .form-group {
+        margin-left: 20px;
+    }
+    .formrow,.btnrow{
+        margin-right: 0;
+    }
+    .fg5,.fg7{
+        margin-left: 0!important;
+    }
+    .form-control{
+        margin-left: 0;
+    }
+    .contactus{
+        position: relative;
+        right: 30px;
+    }
+    .social-buttons {
+        margin-left: 10px;
+        position: relative;
+        right: 12px;
+    }
+}
+@media only screen and (min-width:850px) and (max-width:992px){
+    #banner .intro-text {
+        position: relative;
+        bottom: 60px;
+    }
+    .intro-title {
+        font-size: 4vw;
+    }
+    .intro-text h2 {
+        font-size: 3.5vw;
+    }
+    #navhead{
+        padding: 0 25px 0 20px;
+    }
+     .navbar-nav > li > a {
+      padding: 20px 0 20px 5px;
+    }
+    .navbar-nav > li {
+      float: left;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    .thumbnail img {
+      width: 100%;
+    }
+    .caption p{
+        font-size: 15px;
+        line-height: 24px;
+    }
+     .form-group {
+        /*margin-left: 20px;*/
+    }
+    .fg5,.fg7{
+        margin-left: 0!important;
+    }
+    .form-control{
+        margin-left: 0;
+    }
+    #sectionvideo h2{
+        font-size: 44px;
+    }
+    .contactus{
+        position: relative;
+        right: 50px;
+    }
+    .social-buttons {
+        margin-left: 10px;
+        position: relative;
+        right: 32px;
+    }
+}
+@media only screen and (min-width:768px) and (max-width:850px){
+   #banner .intro-text {
+        position: relative;
+        bottom: 30px;
+    }
+    .intro-title {
+        font-size: 4vw;
+    }
+    .intro-text h2 {
+        font-size: 3.5vw;
+    }
+    #navhead{
+        padding: 0 25px 0 10px;
+    }
+    .navbar-nav > li > a {
+      padding: 20px 0 20px ;
+    }
+    .navbar-nav > li {
+      float: left;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    .navbar-default .navbar-toggle {
+        margin-top: 13px;
+        position: relative;
+        left: 10px;
+    }
+     .thumbnail img {
+      width: 100%;
+    }
+    .caption p{
+        font-size: 15px;
+        line-height: 24px;
+    }
+     .form-group {
+        margin-left: 20px;
+    }
+    .fg5,.fg7{
+        margin-left: 0!important;
+        position: relative;
+        right: 20px;
+    }
+    .form-control{
+        margin-left: 0;
+        width: 60%;
+    }
+    .btnrow{
+        margin-right: 0;
+    }
+    .formrow{
+        margin-right: 0;
+    }
+    #sectionvideo h2{
+        font-size: 42px;
+    }
+    .contactus{
+        position: relative;
+        right: 40px;
+    }
+    .social-buttons {
+        margin-left: 10px;
+        position: relative;
+        right: 22px;
+    }
+}
+@media only screen and (min-width:600px) and (max-width:767px){
+    .intro-title {
+        font-size: 4.5vw;
+    }
+    .intro-text h2 {
+        font-size: 5vw;
+    }
+    #banner .intro-text {
+        margin: 40px;
+    }
+    .navbar-brand img {
+        position: relative;
+        width: 72%;
+        bottom: 9px;
+        right: 20px;
+    }
+    .navbar-brand{
+        position: relative;
+        right: 35px;
+    }
+    .navbar-nav > li {
+        float: left;
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid #E7E7E7;
+    }
+    .navbar-nav > li > a {
+        padding: 15px 0px 15px 10px;
+    }
+    #list1{
+        border-top: 1px solid #E7E7E7;
+    }
+    #main{
+        float:none;
+    }
+    li.active {
+        box-shadow: 0px -3px 0px 0px #fff inset;
+    }
+    .navbar-nav {
+        margin: 0 -15px;
+    }
+    .navbar-nav > li {
+        margin: 0px;
+    }
+    .navbar-default .navbar-toggle {
+        margin-top: 13px;
+    }
+    .sec1head {
+        font-size: 38px;
+        margin-bottom: 15px;
+    }
+     .thumbnail img {
+        width: 100%;
+    }
+    .thumbnail h4{
+        font-size:20px;
+        text-align: center;
+    }
+    .thumbnail .caption{
+        padding: 9px;
+    }
+    .caption p{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .mobwidth{
+        width: 50%;
+        float: right;
+    }
+     .sec3formhead{
+        font-size: 40px;
+    }
+    .form-group {
+        margin-left: 15px;
+        position: relative;
+        left: 10px;
+    }
+    .btnrow,.formrow{
+        margin-right: 0;
+    }
+    #sectionvideo h2{
+        font-size: 38px;
+    }
+    .fg5 p {
+        width: 50%;
+    }
+    .video{
+        position: relative;
+        left: 0;
+    }
+    .contactus{
+        position: relative;
+        right: 40px;
+    }
+    .social-buttons {
+        margin-left: 10px;
+        position: relative;
+        right: 22px;
+    }
+}
+@media only screen and (min-width:400px) and (max-width:600px){
+    .intro-title {
+        font-size: 6vw;
+    }
+     #banner .intro-text {
+        margin: 40px 0;
+    }
+    .intro-text h2 {
+        font-size:5vw;
+    }
+     .navbar-brand img {
+        position: relative;
+        width: 70%;
+        bottom: 9px;
+        right: 35px;
+    }
+    .navbar-nav > li {
+        float: left;
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid #E7E7E7;
+    }
+    .navbar-nav > li > a {
+        padding: 15px 0px 15px 10px;
+    }
+    .navbar-default .navbar-toggle {
+        margin-top: 13px;
+        position: relative;
+        left: 8px;
+    }
+     .navbar-brand{
+        position: relative;
+        right: 35px;
+    }
+    #list1{
+        border-top: 1px solid #E7E7E7;
+    }
+    #main{
+        float:none;
+    }
+     li.active {
+        box-shadow: 0px -3px 0px 0px #FFF inset;
+    }
+    .navbar-nav {
+        margin: 0 -13px;
+    }
+    .sec1head {
+        font-size: 34px;
+        margin-bottom: 15px;
+    }
+     .thumbnail img {
+        width: 100%;
+    }
+    .thumbnail h4{
+        font-size:20px;
+        text-align: center;
+    }
+    .caption p{
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .fg5 p {
+        width: 50%;
+    }
+    .sec3formhead{
+        font-size: 35px;
+    }
+     .ah1,.ah2,.ah3,.ah4{
+        width: 70%;
+    }
+    .formrow,.btnrow{
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .form-group {
+        margin-left: 0;
+        position: relative;
+        left: 15px;
+        margin-bottom: 15px;
+    }
+    .formhead {
+        width: 150px;
+        float: none!important;
+    }
+    .form-control{
+        width: 80%;
+        margin-left: 0!important;
+    }
+    .genderform {
+        margin-bottom: 40px;
+    }
+    .ah1,.ah3{
+        float:none!important;
+    }
+    #sectionvideo h2{
+        font-size: 36px;
+    }
+     .video{
+        position: relative;
+        left: 0;
+    }
+     .contactus{
+        position: relative;
+        right: 60px;
+    }
+    .social-buttons {
+        margin-left: 0px;
+        position: relative;
+        right: 35px;
+    }
+}
+@media only screen and (min-width:150px) and (max-width:400px){
+    .intro-title {
+        font-size: 7vw;
+    }
+    .intro-text h2 {
+        font-size: 6.5vw;
+    }
+     #banner .intro-text {
+        margin: 40px 0;
+    }
+    .padleft{
+        padding-left: 0;
+    }
+     .navbar-brand img {
+        position: relative;
+        width: 70%;
+        bottom: 9px;
+        right: 32px;
+    }
+    a.headerbtn{
+        position: relative;
+        right: 30px;
+    }
+    .navbar-nav > li {
+        float: left;
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid #E7E7E7;
+    }
+    .navbar-nav > li > a {
+        padding: 15px 0px 15px 10px;
+    }
+    #list1{
+        border-top: 1px solid #E7E7E7;
+    }
+    #main{
+        float:none;
+    }
+     li.active {
+        box-shadow: 0px -3px 0px 0px #FFF inset;
+    }
+    .navbar-nav {
+        margin: 0 -13px;
+    }
+    .navbar-default .navbar-toggle {
+        margin-top: 13px;
+        position: relative;
+        left: 8px;
+    }
+      .navbar-brand{
+        position: relative;
+        right: 35px;
+    }
+    .sec1head {
+        font-size: 32px;
+        margin-bottom: 15px;
+    }
+    .thumbnail img {
+        width: 100%;
+    }
+    .thumbnail h4{
+        font-size:18px;
+        text-align: center;
+    }
+    .caption p{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .sec3formhead{
+        font-size: 35px;
+    }
+    .ah1,.ah2,.ah3,.ah4{
+        width: 100%;
+    }
+    .formrow,.btnrow,.footerrowheader{
+        margin-right: 0;
+    }
+     .form-group {
+        margin-left: 0;
+        position: relative;
+        left: 30px;
+        width: 90%;
+        margin-bottom: 15px;
+    }
+    .formhead {
+        width: 150px;
+        float: none!important;
+    }
+    .form-control{
+        width: 100%;
+        margin-left: 0!important;
+    }
+    .genderform {
+        margin-bottom: 40px;
+    }
+    .fg5 p {
+        width: 75%;
+    }
+    .ah1,.ah3{
+        float:none!important;
+    }
+    #sectionvideo h2{
+        font-size: 36px;
+    }
+     .video{
+        position: relative;
+        left: 0;
+    }
+     .contactus{
+        position: relative;
+        right: 100px;
+    }
+    .social-buttons {
+       position: relative;
+       right: 70px;
+       margin-left: 0;
+    }
+    .text1{
+        margin-left: 0px!important;
+        position: relative;
+        left: 36px;
+    }
+}

@@ -1,0 +1,22 @@
+Installation Instructions:
+
+1. Installed sublime text editor3 and coded the html content and saved it has index.html
+2. For html.html the style css is coded in any another file and saved it has style.css and link has given in the index.html
+3. Run these page to any web browser to view.
+
+Tools used
+
+Sublime text editor
+Photoshopcs6
+
+Libraries used
+
+jquery.1.11.1
+jquery-1.10.2.min
+bootstrap
+
+Frameworks used
+Bootstrap3
+
+Resources
+https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
